@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashtonsyed
 - 👀 I’m interested in computer science, web and iOS App development, cloud storage, networking, security, and light gaming.
-- 🌱 I’m currently learning Agile Development, Java, Programming in C, Datbases, and Ubuntu. 
+- 🌱 I’m currently learning Agile development, Java, Programming in C, datbases, and Ubuntu. 
 - 💞️ I’m looking to collaborate on student projects, iOS app development, and really anything else.
 - 📫 How to reach me: via GitHub unless I personally provide my contact information to you.
 
