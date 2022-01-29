@@ -1,5 +1,5 @@
 # Ashton Syed
-      👋 
+👋 
 ## About Me: 👀 
 
 I love computer science. I grew up tinkering with computers and then worked on the technician side of cellular, residential, and commercial network implementation; I also spent some time working with home automation, security, and surveillance systems. I spent about two years as an electrical apprentice which really solidified my decision to pursue a career with more intellectual challenge. In pursuit of my bachelors in computer science I've really enjoyed learning different languages and the nuances of their syntax. My other favorite topics have been Java, Swift for iOS development, data structures, and chemisty. I enjoy spending time with my family, board games, sharing personal financial management techniques, technical reading, light video games and sleep.
